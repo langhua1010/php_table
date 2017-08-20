@@ -1,0 +1,21 @@
+.banner {
+  width: 1150px;
+  height: 400px;
+  margin: 50px auto;
+  border: 1px solid red;
+  overflow: hidden;
+  }
+  .banner li {
+      width: 240px;
+      height: 400px;
+      float: left;
+  }
+  .banner ul {
+      width: 1300px;
+  }
+  .info {
+    clear: both;
+    text-align: center;
+    font-size: 24px;
+    margin:20px auto;
+  }
